@@ -1,4 +1,4 @@
-module kevacoin.org/keva-stratum/v2
+module github.com/Miner113/keva-stratum
 
 go 1.16
 
