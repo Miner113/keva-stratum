@@ -6,8 +6,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"https://github.com/Miner113/keva-stratum/rpc"
-	"https://github.com/Miner113/keva-stratum/util"
+	"github.com/Miner113/keva-stratum/rpc"
+	"github.com/Miner113/keva-stratum/util"
 )
 
 func (s *StratumServer) StatsIndex(w http.ResponseWriter, r *http.Request) {
