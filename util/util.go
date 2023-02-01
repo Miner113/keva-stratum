@@ -7,8 +7,8 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"https://github.com/Miner113/keva-stratum/cnutil"
-	"https://github.com/Miner113/keva-stratum/rpc"
+	"github.com/Miner113/keva-stratum/cnutil"
+	"github.com/Miner113/keva-stratum/rpc"
 )
 
 var Diff1 = StringToBig("0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF")
