@@ -41,7 +41,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 //Argon2d salt
 #ifdef _KEVACOIN
-#define RANDOMX_ARGON_SALT         "RandomKV\x01"
+#define RANDOMX_ARGON_SALT         "RandomXHUSH\x03"
 #else
 #define RANDOMX_ARGON_SALT         "RandomX\x03"
 #endif
