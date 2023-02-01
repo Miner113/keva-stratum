@@ -77,7 +77,7 @@ func (cs *Session) getJob(t *BlockTemplate) *JobReplyData {
 	if majorVersion == 10 {
 		algo = "cn/r"
 	} else if majorVersion == 12 {
-		algo = "rx/keva"
+		algo = "rx/dragonx"
 	}
 
 	reply := &JobReplyData{
